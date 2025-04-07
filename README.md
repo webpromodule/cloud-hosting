@@ -10,13 +10,13 @@ Cloudinary's award-winning plugin makes automating your image and video workflow
 - 🔒 **Secure & Reliable** – Built with best coding practices and security standards.  
 - 🔄 **Multi-Language Support** – Compatible with various programming environments.  
 
-## 📦 Available Packages  
+## 📦 Available API
 | Category           | Features |
 |-------------------|------------------------------------------------|
-| **AI-Powered Telemedicine**      | End-to-end development kits for web & mobile $323.00 |
-| **Web Dev Pack**    |  UI components, frameworks, templates $315.00 |
-| **APK THIRD PARTY API FRAMEWORK**       | API integrations, database handlers, auth modules $502.50 |
-| **DevOps & Tools**| CI/CD pipelines, automation scripts $100.12 |
+| **Server & Configurations**      | $232.00 |
+| **Data backup and Disaster Recovery**    |   $950.00 |
+| **Security and Compliance test**       | $350.00 |
+| **Live chat, whatsApp automation API**| $210.00 |
 ---
 
 # Image and Video APIs for Fast, Scalable Media Management
