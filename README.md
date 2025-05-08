@@ -20,9 +20,11 @@ Cloudinary's award-winning plugin makes automating your image and video workflow
 ---
 🔗 [Server & Configurations](https://checkout.kusor.org/checkout?id=223450)  
 ||  [Data backup and Disaster Recovery](https://checkout.kusor.org/checkout?id=0325858)  
-||  [Security and Compliance test](https://checkout.kusor.org/checkout?id=devops) 
+||  [Security and Compliance test](https://checkout.kusor.org/checkout?id=984793) 
 ||  [Live chat, WhatsApp automation API](https://checkout.kusor.org/checkout?id=9378638) 
  <hr>
+ [Resend Payment receipt](https://checkout.kusor.org/resend) 
+ 
  
 # Image and Video APIs for Fast, Scalable Media Management
 Store, transform, optimize, and deliver media with powerful APIs, intuitive widgets, and a user-friendly interface.
