@@ -13,12 +13,15 @@ Cloudinary's award-winning plugin makes automating your image and video workflow
 ## 📦 Available API
 | Category           | Features |
 |-------------------|------------------------------------------------|
-| **Server & Configurations**      | $232.00 | 🔗 [Buy AI-Powered Telemedicine](https://checkout.kusor.org/checkout?id=ai-telemedicine) 
+| **Server & Configurations**      | $232.00 |
 | **Data backup and Disaster Recovery**    |   $950.00 |
 | **Security and Compliance test**       | $350.00 |
 | **Live chat, whatsApp automation API**| $210.00 |
 ---
-🔗 [Buy AI-Powered Telemedicine](https://checkout.kusor.org/checkout?id=ai-telemedicine)  ||  [Buy APK THIRD PARTY API FRAMEWORK](https://checkout.kusor.org/checkout?id=android-pack)  ||  [DevOps & Tools](https://checkout.kusor.org/checkout?id=devops) ||  [Web Dev Pack](https://checkout.kusor.org/checkout?id=web-pack) 
+🔗 [Server & Configurations](https://checkout.kusor.org/checkout?id=223450)  
+||  [Data backup and Disaster Recovery](https://checkout.kusor.org/checkout?id=0325858)  
+||  [Security and Compliance test](https://checkout.kusor.org/checkout?id=devops) 
+||  [Live chat, WhatsApp automation API](https://checkout.kusor.org/checkout?id=9378638) 
  <hr>
  
 # Image and Video APIs for Fast, Scalable Media Management
